@@ -12,7 +12,7 @@ This tool works on **source code projects**, not compiled `.nro` or `.ovl` files
 Before running the script, install the required dependency:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requests
 ```
 
 ## Usage
