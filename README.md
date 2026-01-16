@@ -12,6 +12,7 @@ Before running the script, install the required dependency:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
