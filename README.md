@@ -1,4 +1,5 @@
 # Libnx Source Patcher
+[![Latest Release](https://img.shields.io/github/v/release/JP3402/libnx-abi-patcher)](https://github.com/JP3402/libnx-abi-patcher/releases/latest)
 
 This tool is designed for Nintendo Switch homebrew developers. It automates the process of updating the `libnx` source code within a project to the latest version.
 
